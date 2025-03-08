@@ -1,2 +1,29 @@
+# Java build directories
 /target/
-/.idea/
+/bin/
+/out/
+
+# IntelliJ IDEA
+.idea/
+/*.iml
+
+# Eclipse
+/.metadata/
+/*.log
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Maven
+/.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
