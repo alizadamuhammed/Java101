@@ -11,4 +11,3 @@ Welcome to my Java learning repository! This repository contains all my projects
 - **Java** - Core programming language
 - **IntelliJ IDEA** - Primary IDE
 - **Git & GitHub** - Version control
-- (Optional) Other libraries and tools as needed.
