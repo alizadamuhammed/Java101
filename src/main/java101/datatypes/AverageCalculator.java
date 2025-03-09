@@ -19,7 +19,12 @@ public class AverageCalculator {
         double engineeringNote = sc.nextDouble();
 
         double averageNote = (mathNote + physicsNote + chemistryNote + engineeringNote) / 4;
-        System.out.println("Your average note is: " + averageNote);
 
+        if (averageNote >60) {
+            System.out.println("You passed the exam with " + averageNote);
+        }
+        else {
+            System.out.println("You did not pass the exam with " + averageNote);
+        }
     }
 }
