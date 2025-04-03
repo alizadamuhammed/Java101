@@ -9,11 +9,11 @@ public class PowerPrinter {
         System.out.println("Enter the number: ");
         int number = sc.nextInt();
 
-        for(int i = 1; i <= number; i*=4){
+        for (int i = 1; i <= number; i *= 4) {
             System.out.print(i + ", ");
         }
         System.out.println();
-        for(int i = 1; i <= number; i*=5){
+        for (int i = 1; i <= number; i *= 5) {
             System.out.print(i + ", ");
         }
     }
