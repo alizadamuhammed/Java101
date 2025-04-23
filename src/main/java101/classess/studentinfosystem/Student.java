@@ -1,4 +1,4 @@
-package main.java101.classes.studentinfosystem;
+package main.java101.classess.studentinfosystem;
 
 public class Student {
     Course c1;
